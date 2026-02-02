@@ -1,4 +1,5 @@
-FROM n8nio/n8n:2.6.0
+FROM n8nio/n8n:n8n@latest
+
 USER root
 
 WORKDIR /home/node/packages/cli
