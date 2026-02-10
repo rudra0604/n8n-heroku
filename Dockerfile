@@ -1,5 +1,4 @@
-FROM n8nio/n8n:n8n@2.6.4
-
+FROM n8nio/n8n:latest
 
 USER root
 
